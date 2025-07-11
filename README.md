@@ -1,31 +1,59 @@
-# GedeBrawidya
+🚀 Welcome to My GitHub Profile! 🚀
 
-Hello! I'm GedeBrawidya, a passionate **Full Stack WEB Developer**. I enjoy building web applications and exploring different aspects of web development.
+Hi there! I'm Gede Brawidya, a passionate developer who loves to build amazing projects and contribute to open-source. Here you'll find a collection of my work, experiments, and contributions. Feel free to explore, fork, and collaborate!
+🔥 About Me
 
-## About Me
+    💻 Full-Stack Developer with expertise in multiple technologies.
 
-- 💻   Full Stack WEB Developer with a focus on creating robust and user-friendly web experiences.
-- 🚀   Actively working on projects that showcase my skills in both front-end and back-end development.
-- 🌱   Constantly learning and adapting to new technologies to improve my craft.
+    🌱 Continuous Learner – always exploring new frameworks and tools.
 
-## My Projects
+    🚀 Open-Source Enthusiast – love contributing to meaningful projects.
 
-Here are some of my popular repositories that highlight my work:
+    📫 Let's Connect: LinkedIn | Twitter | Personal Website (Coming Soon!)
 
-* **[WEB-MOBIL](https://github.com/GedeBrawidya/WEB-MOBIL)**: A public web application for buying and selling cars. (HTML)
-* **[Web_Matkul](https://github.com/GedeBrawidya/Web_Matkul)**: A public web project related to web programming courses. (HTML)
-* **[web_cv](https://github.com/GedeBrawidya/web_cv)**: A public personal resume website. (CSS)
-* **[Scraping](https://github.com/GedeBrawidya/Scraping)**: A public project focused on scraping data from CoinMarketCap. (Python)
+🛠 Tech Stack
 
-## Technologies & Tools
+Here are some of the technologies I work with:
+Frontend
 
-I work with a variety of technologies and tools, including:
+https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white
+https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black
+https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
+Backend
 
-* **Languages**: HTML, CSS, Python
-* **Web Development**: Full Stack Web Development
+https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white
+https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white
+https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white
+https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white
+Database
 
-## Get in Touch
+https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
+https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
+DevOps & Tools
 
-Feel free to connect with me on GitHub!
+https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white
+https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white
+📈 GitHub Stats
 
-* [GitHub Profile](https://github.com/GedeBrawidya)
+https://github-readme-stats.vercel.app/api?username=GedeBrawidya&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=GedeBrawidya&layout=compact&theme=radical
+🌟 Featured Repositories
+
+Here are some of my most notable projects:
+
+🔹 Project 1 – A brief description.
+🔹 Project 2 – Another cool project.
+🔹 Project 3 – Something awesome!
+🤝 Let's Collaborate!
+
+I’m always open to interesting projects and collaborations. If you have an idea or just want to chat, feel free to reach out!
+
+📧 Email: your-email@example.com
+💼 LinkedIn: Your LinkedIn
+
+⭐ Thanks for visiting! If you like what you see, consider giving some of my repos a star! ⭐
+
+https://visitor-badge.laobi.icu/badge?page_id=GedeBrawidya.GedeBrawidya
