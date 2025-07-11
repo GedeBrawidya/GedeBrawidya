@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Gede Brawidya Puja Dharma</h1>
-<h3 align="center">A passionate backend developer</h3>
+# GedeBrawidya
 
-- 🌱 I’m currently learning **Reactjs, vue, next**
+Hello! I'm GedeBrawidya, a passionate **Full Stack WEB Developer**. I enjoy building web applications and exploring different aspects of web development.
 
-- 📫 How to reach me **gedepujaa9@gmail.com**
+## About Me
 
-- ⚡ Fun fact **I made song**
+- 💻   Full Stack WEB Developer with a focus on creating robust and user-friendly web experiences.
+- 🚀   Actively working on projects that showcase my skills in both front-end and back-end development.
+- 🌱   Constantly learning and adapting to new technologies to improve my craft.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gedebrawidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gedebrawidya" height="30" width="40" /></a>
-<a href="https://fb.com/gedebrawidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gedebrawidya" height="30" width="40" /></a>
-<a href="https://instagram.com/_enxyest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_enxyest" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/enxyest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enxyest" height="30" width="40" /></a>
-</p>
+## My Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Here are some of my popular repositories that highlight my work:
 
+* **[WEB-MOBIL](https://github.com/GedeBrawidya/WEB-MOBIL)**: A public web application for buying and selling cars. (HTML)
+* **[Web_Matkul](https://github.com/GedeBrawidya/Web_Matkul)**: A public web project related to web programming courses. (HTML)
+* **[web_cv](https://github.com/GedeBrawidya/web_cv)**: A public personal resume website. (CSS)
+* **[Scraping](https://github.com/GedeBrawidya/Scraping)**: A public project focused on scraping data from CoinMarketCap. (Python)
+
+## Technologies & Tools
+
+I work with a variety of technologies and tools, including:
+
+* **Languages**: HTML, CSS, Python
+* **Web Development**: Full Stack Web Development
+
+## Get in Touch
+
+Feel free to connect with me on GitHub!
+
+* [GitHub Profile](https://github.com/GedeBrawidya)
