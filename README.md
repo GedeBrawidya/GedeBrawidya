@@ -46,25 +46,6 @@
   
 </div>
 
----
-
-<div align="center">
-  
-  ### 📊 GitHub Stats
-  
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GedeBrawidya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GedeBrawidya&layout=compact&langs_count=8&theme=tokyonight" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=GedeBrawidya&theme=tokyonight" alt="GitHub Streak" />
-  </p>
-  
-</div>
-
----
-
 <div align="center">
   
   ### 🌐 Connect With Me
@@ -82,8 +63,6 @@
   </a>
   
 </div>
-
----
 
 <div align="center">
   
