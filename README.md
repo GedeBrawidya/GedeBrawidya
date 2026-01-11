@@ -8,9 +8,7 @@
   
 </div>
 
----
-
-<div align="center">
+<div align="left">
   
   ### 👨‍💻 About Me
   
@@ -28,51 +26,23 @@
   }
   ```
   
-</div>
-
----
-
-<div align="center">
-  
   ### 🛠️ Tech Stack
   
-</div>
-
-<div align="center">
+  **Frontend:**
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>Frontend</strong>
-        <br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        <br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      </td>
-      <td align="center" width="33%">
-        <strong>Backend</strong>
-        <br>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <br>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      </td>
-      <td align="center" width="33%">
-        <strong>Database & Tools</strong>
-        <br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <br>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-        <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      </td>
-    </tr>
-  </table>
+  **Backend:**
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  
+  **Database & Tools:**
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   
 </div>
 
@@ -82,12 +52,14 @@
   
   ### 📊 GitHub Stats
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GedeBrawidya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=false)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GedeBrawidya&layout=compact&langs_count=8&theme=tokyonight&hide_border=false)
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GedeBrawidya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GedeBrawidya&layout=compact&langs_count=8&theme=tokyonight" />
+  </p>
   
-  <br>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=GedeBrawidya&theme=tokyonight&hide_border=false)
+  <p align="center">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=GedeBrawidya&theme=tokyonight" alt="GitHub Streak" />
+  </p>
   
 </div>
 
